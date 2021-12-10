@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/React-StripeNavbar-Component/static/css/main.aa602e33.chunk.css",
+    "main.js": "/React-StripeNavbar-Component/static/js/main.313a5bcf.chunk.js",
+    "main.js.map": "/React-StripeNavbar-Component/static/js/main.313a5bcf.chunk.js.map",
+    "runtime-main.js": "/React-StripeNavbar-Component/static/js/runtime-main.7a6c69ff.js",
+    "runtime-main.js.map": "/React-StripeNavbar-Component/static/js/runtime-main.7a6c69ff.js.map",
+    "static/js/2.e1e77988.chunk.js": "/React-StripeNavbar-Component/static/js/2.e1e77988.chunk.js",
+    "static/js/2.e1e77988.chunk.js.map": "/React-StripeNavbar-Component/static/js/2.e1e77988.chunk.js.map",
+    "index.html": "/React-StripeNavbar-Component/index.html",
+    "precache-manifest.9f3a61c85134112324590c84ba8641b4.js": "/React-StripeNavbar-Component/precache-manifest.9f3a61c85134112324590c84ba8641b4.js",
+    "service-worker.js": "/React-StripeNavbar-Component/service-worker.js",
+    "static/css/main.aa602e33.chunk.css.map": "/React-StripeNavbar-Component/static/css/main.aa602e33.chunk.css.map",
+    "static/js/2.e1e77988.chunk.js.LICENSE.txt": "/React-StripeNavbar-Component/static/js/2.e1e77988.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/React-StripeNavbar-Component/static/media/hero.8596ab4a.svg",
+    "static/media/logo.svg": "/React-StripeNavbar-Component/static/media/logo.1090473d.svg",
+    "static/media/phone.svg": "/React-StripeNavbar-Component/static/media/phone.58d7e3d6.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7a6c69ff.js",
+    "static/js/2.e1e77988.chunk.js",
+    "static/css/main.aa602e33.chunk.css",
+    "static/js/main.313a5bcf.chunk.js"
+  ]
+}
